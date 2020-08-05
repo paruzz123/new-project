@@ -1,4 +1,4 @@
-# README.md
+# makefile.txt
 Project title  :  my-guessing-game
 Date of creation : 28-june-2020
 Number of code lines : 50
