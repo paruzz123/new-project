@@ -1,3 +1,4 @@
-my-guessing-game
-28-june-2020
-50
+# README.md
+Project title  :  my-guessing-game
+Date of creation : 28-june-2020
+Number of code lines : 50
