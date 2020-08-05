@@ -1,4 +1,6 @@
-# makefile.txt
-Project title  :  my-guessing-game
-Date of creation : 28-june-2020
-Number of code lines : 50
+all: README.md
+
+README.md:
+	@echo "# Guessing Game using Bash" > README.md
+	@echo "Date and time of make: $$(date)  " >> README.md
+	@echo "Lines of code in guessinggame.sh: $$(wc -l < guessinggame.sh)" >> README.md
